@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=reddit&logo=reddit&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit logo" />
     
   </a>
-  <a href="https://www.youtube.com/channel/legendarykillstreak">
+  <a href="https://www.youtube.com/channel/@LegendaryKillStreak">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
     
   </a>
