@@ -5,16 +5,22 @@
 ###
 
 <div align="center">
-  <a href="https://www.reddit.com/in/legedarykillstreak">
-    <img src="https://img.shields.io/static/v1?message=reddit&logo=reddit&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit logo" />
+  <a href="https://www.reddit.com/user/LegendaryKillStreak/">
+    <img src="https://img.shields.io/static/v1?message=reddit&logo=reddit&label=&color=ff6600&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit logo" />
     
   </a>
   <a href="https://www.youtube.com/@LegendaryKillStreak">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+
+   
     
   </a>
-  <a href="https://twitter.com/legendarykillstreak">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="https://www.twitch.tv/LegendaryKillStreak">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9900ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
+    
+  </a>
+  <a href="https://x.com/legendarykillstreak">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
 
